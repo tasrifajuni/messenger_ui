@@ -36,7 +36,7 @@ class MyHome extends StatelessWidget {
           ],
         ),
         body: Container(
-          height: double.infinity,
+          height: 400,
           width: double.infinity,
           color: Colors.amber,
           child: Column(
