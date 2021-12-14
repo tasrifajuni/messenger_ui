@@ -23,6 +23,8 @@ class Homepage extends StatelessWidget {
             width: 10,
           ),
           Icon(Icons.border_all_outlined),
+          Icon(Icons.ac_unit_rounded),
+          Icon(Icons.add_a_photo_sharp),
         ],
       ),
       body: Column(
